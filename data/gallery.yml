@@ -1,0 +1,10 @@
+title: "Our Team"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Lemmy World is made up of a diverse group of passionate individuals from all over the globe. We take the .world in our name seriously!
+pictures:
+  - title: "Ruud"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/01.jpg"
+    thumb: "images/gallery/thumbs/01.jpg"
+    button: "Details"
