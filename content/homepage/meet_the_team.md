@@ -13,13 +13,15 @@ weight: 2
 
 🧑 [@MichelleG](https://lemmy.world/u/MichelleG)
 
-🧑 [@AvaddonLFC](https://lemmy.world/u/clueless_stoner)
-
 🧑 [@Xylinna](https://lemmy.world/u/xylinna)
 
 🧑 [@Quinten](https://lemmy.world/u/Quinten)
 
 🧑 [@Thekingoflorda](https://lemmy.world/u/Thekingoflorda)
+
+🧑 [@Canthidium](https://lemmy.world/u/canthidium)
+
+🧑 [@Rooki](https://lemmy.world/u/Rooki)
 
 ---
 
