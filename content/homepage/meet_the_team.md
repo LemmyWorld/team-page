@@ -13,8 +13,6 @@ weight: 2
 
 🧑 [@MichelleG](https://lemmy.world/u/MichelleG)
 
-🧑 [@AvaddonLFC](https://lemmy.world/u/clueless_stoner)
-
 🧑 [@Xylinna](https://lemmy.world/u/xylinna)
 
 🧑 [@Quinten](https://lemmy.world/u/Quinten)
